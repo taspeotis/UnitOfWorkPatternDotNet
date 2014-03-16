@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>ta.speot.is</authors>
+    <description>Two (extremely) lightweight UoW interfaces.</description>
+  </metadata>
+</package>
